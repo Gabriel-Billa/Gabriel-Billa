@@ -22,8 +22,6 @@ Machine Learning.
 
 Dashboard de Qualidade Industrial
 
-Dashboard de Produção PHINIA
-
 Análise Exploratória de Vendas
 
 Predição de Vendas com Machine Learning
